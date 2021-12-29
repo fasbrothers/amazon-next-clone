@@ -1,3 +1,5 @@
 module.exports = {
-  reactStrictMode: true,
-}
+  images: {
+    domains: ["fakestoreapi.com", "www.mabaya.com", "upload.wikimedia.org"],
+  },
+};
